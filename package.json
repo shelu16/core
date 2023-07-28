@@ -44,7 +44,7 @@
     "semver": "^6.3.0",
     "shelljs": "^0.8.3",
     "validator": "^11.1.0",
-    "winston": "^3.2.1",
+    "winston": "^3.8.2",
     "winston-daily-rotate-file": "^3.10.0"
   },
   "devDependencies": {
