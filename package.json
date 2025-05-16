@@ -42,7 +42,7 @@
     "progress": "^2.0.3",
     "rotating-file-stream": "^1.4.3",
     "semver": "^6.3.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.10.0",
     "validator": "^11.1.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^3.10.0"
